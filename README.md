@@ -1,6 +1,7 @@
 # plantas
 
 Animación nav-bar
+![Screenshot](nb.png)
 
 ## Getting Started
 
